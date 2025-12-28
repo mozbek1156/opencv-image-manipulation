@@ -105,4 +105,4 @@ GUI (Swing / JavaFX) entegrasyonu
 👤 Geliştirici
 
 Muhammed Özbek
-|Software Engineering Student
+| Software Engineering Student
